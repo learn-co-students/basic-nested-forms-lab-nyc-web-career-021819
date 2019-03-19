@@ -1,6 +1,8 @@
 source 'https://rubygems.org'
 
-
+gem 'nested_form_fields'
+gem 'faker'
+gem 'table_print'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails'
 # Use sqlite3 as the database for Active Record
